@@ -1,0 +1,8 @@
+{
+  "fieldMeta": "Preložené pomocou AI",
+  "languageSourceNotSupported": "Zdrojový jazyk \"{{ code }}\" nie je podporovaný.",
+  "languageTargetNotSupported": "Cieľový jazyk \"{{ code }}\" nie je podporovaný.",
+  "reasonServerError": "Interná chyba",
+  "translateError": "Chyba pri preklade \"{{ title }}\" do \"{{ target }}\": {{ reason }}.",
+  "unpublishedTranslations": "Nepublikované preklady"
+}
