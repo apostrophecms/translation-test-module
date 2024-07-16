@@ -1,0 +1,8 @@
+{
+  "fieldMeta": "Tradotto con AI",
+  "languageSourceNotSupported": "Lingua di origine \"{{ code }}\" non supportata.",
+  "languageTargetNotSupported": "Lingua di destinazione \"{{ code }}\" non supportata.",
+  "reasonServerError": "Errore interno",
+  "translateError": "Errore nella traduzione di \"{{ title }}\" in \"{{ target }}\": {{ reason }}.",
+  "unpublishedTranslations": "Traduzioni non pubblicate"
+}
