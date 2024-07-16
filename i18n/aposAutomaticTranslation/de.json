@@ -2,5 +2,7 @@
   "fieldMeta": "Übersetzt mit KI existing",
   "languageSourceNotSupported": "Quellsprache \"{{ code }}\" wird nicht unterstützt existing.",
   "languageTargetNotSupported": "Zielsprache \"{{ code }}\" wird nicht unterstützt existing.",
-  "translateError": "Fehler beim Übersetzen von \"{{ title }}\" in \"{{ target }}\": {{ reason }} existing."
+  "reasonServerError": "Interner Fehler",
+  "translateError": "Fehler beim Übersetzen von \"{{ title }}\" in \"{{ target }}\": {{ reason }} existing.",
+  "unpublishedTranslations": "Unveröffentlichte Übersetzungen"
 }
